@@ -1,0 +1,11 @@
+IMAGE GUIDE
+
+The following selections were made from the six-page PDF supplied by Durafshan Sakeena Syed:
+
+1. portrait.jpg — the portrait on page 1.
+2. leg-motor-neuron-development.jpg — the published leg motor-neuron figure on page 1.
+3. flight-muscle-development.jpg — the developmental flight-muscle image sequence on page 2. The section caption stays general and does not describe the unpublished molecular story.
+4. neural-circuit-architecture.jpg — the inhibitory circuit architecture figure on page 4.
+5. behavioral-flexibility.jpg — the F/H grooming state-transition diagram on page 6.
+
+These images are taken from the PDF supplied by the author. If you later replace any image, keep the same filename or update its src in index.html.
