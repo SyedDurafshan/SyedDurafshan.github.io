@@ -122,20 +122,31 @@ h3 { margin-bottom: .7rem; font-size: 1.18rem; line-height: 1.35; letter-spacing
 .research-card:nth-child(3) .research-figure img { height: 250px; }
 .research-card:nth-child(4) .research-figure img { height: 210px; }
 .research-figure figcaption { margin-top: .55rem; font-size: .78rem; line-height: 1.4; color: var(--muted); }
+
+/* Teaching and mentoring figure */
 .teaching-figure {
-  max-width: 900px;
+  max-width: 650px;
   margin: 2rem auto 0;
+  text-align: center;
 }
 
 .teaching-figure img {
-  width: auto;
-  max-width: 100%;
-  height: auto;
+  display: block;
+  width: 100%;
+  max-width: 650px;
+  max-height: 350px;
+  object-fit: contain;
   margin: 0 auto;
 }
 
 .teaching-figure figcaption {
+  display: block;
+  max-width: 650px;
+  margin: .55rem auto 0;
   text-align: center;
+  font-size: .78rem;
+  line-height: 1.4;
+  color: var(--muted);
 }
 .portrait { width: 150px; height: 150px; object-fit: cover; border-radius: 50%; display: block; margin-bottom: 1.3rem; border: 4px solid white; box-shadow: 0 4px 20px rgba(0,0,0,.08); }
 .cv-placeholder { display: flex; align-items: center; justify-content: space-between; gap: 1rem; padding: 1.25rem 1.4rem; border: 1px solid var(--line); background: var(--paper); }
